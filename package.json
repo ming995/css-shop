@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ming995/css-shop/issues"
   },
-  "homepage": "https://github.com/ming995/css-shop#readme"
+  "homepage": "https://github.com/ming995/css-shop#readme",
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
 }
